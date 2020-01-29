@@ -4,8 +4,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>io.appium</groupId>
-	<artifactId>appium-generic-test</artifactId>
+	<groupId>io.fastrack</groupId>
+	<artifactId>fastrack-generic-test</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
 	<repositories>
@@ -23,7 +23,7 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>io.appium</groupId>
+			<groupId>io.fastrack</groupId>
 			<artifactId>java-client</artifactId>
 			<version>5.0.1</version>
 		</dependency>
